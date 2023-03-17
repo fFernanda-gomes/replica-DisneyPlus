@@ -1,0 +1,22 @@
+.container-download {
+    background-image: url("/assets/possibilidade\ download.png");
+    /* width: 89.3rem; */
+    width: 80%;
+    height: 52.1rem;
+    margin-top: 40rem;
+    margin-left: 15rem;
+    margin-right: 40rem;
+    margin-bottom: 10.2rem;
+    /* border: solid red 1px; */
+}
+
+.text-container-download h3{
+    padding-left: 50%;
+    margin-top: 12rem;
+    margin-bottom: 3rem;
+}
+
+.text-container-download p{
+    padding-left: 50%;
+}
+

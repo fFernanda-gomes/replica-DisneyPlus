@@ -1,0 +1,145 @@
+h1 {
+    font-family: 'Avenir', sans-serif;
+    display: block;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: normal;
+    font-size: 3.4rem;
+    line-height: 3.6rem;
+    color: #f9f9f9;
+    margin-bottom: 3rem;
+    /* margin-block-start: 0.67rem;
+    margin-block-end: 0.67rem;
+    margin-inline-start: 0rem;
+    margin-inline-end: 0rem; */
+}
+
+li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+/* .plano-disney {
+    border: solid red 1px;
+    list-style: none;
+    width: 22.50rem;
+    height: 26.72rem;
+    display: block;
+    align-items: flex-start;
+    text-align: flex-start;
+}
+
+.plano-disney img {
+    width: 100%;
+    height: 100%;
+}
+
+.plano-disney h3{
+    margin-top: 2.4rem;
+}
+
+.plano-disney p {
+        padding: 0.2rem;
+        margin: 0 0 2.4rem;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+} */
+
+.list-plans {
+    display: flex;
+    margin: 2.4rem;
+}
+
+.plan {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    margin-bottom: 2.4rem;
+    margin: 3rem;
+    align-items: center;
+}
+
+.plan p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+.text-plan {
+    margin-top: 0%;
+    width: 20.05rem;
+    height: 20.73rem;
+}
+
+.text-plan h3 {
+    font-size: 2.8rem;
+    margin-top: 2.4rem;
+}
+
+p.medium {
+    font-size: 1.8rem;
+}
+
+.plano-disney {
+    height: 12rem;
+    width: 42rem;
+}
+
+.plan-starplus {
+    background-image: url(/assets/mais\ popular.png);
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+
+.plan-starplus p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.text-plan-S {
+    margin-top: 3.5%;
+    margin-left: 25%;
+    width: 20.05rem;
+    height: 20.73rem;
+}
+
+.bottom-plan-c {
+    background: #6921ff;
+    color: #f9f9f9;
+    border-radius: 0.4rem;
+    padding: 1.65rem 2.4rem;
+    width: 100%;
+}
+
+p.footnote {
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 1.2rem;
+}

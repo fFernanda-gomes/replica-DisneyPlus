@@ -1,0 +1,32 @@
+@import url(https://static-assets.bamgrid.com/fonts/avenir-world/AvenirWorld-Demi.46e9d5864ff91e13275000330f3c2b74.woff2);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #040714;
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Avenir', sans-serif;
+    color: silver;
+    font-size: 1.6rem;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: .2px;
+    line-height: 2.6rem;
+}
+
+section {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 5.6vw;
+    position: relative;
+}
+

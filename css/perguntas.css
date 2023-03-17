@@ -1,0 +1,21 @@
+.accordion-btn {
+    background-color: #13151d;
+    text-align: center;
+    align-items: center;
+    display: block;
+}
+
+.accordion-child {
+    position: relative;
+    float: left;    
+}
+
+.accordion-child p div {
+    position:absolute;
+    display:none;
+
+}
+
+/* .accordion-container open {
+    
+} */
