@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Fernanda Gomes <br>
     --> GitHub: https://github.com/fFernanda-gomes
 - Bianca Carvalho <br>
-    --> GitHub: 
+    --> GitHub: https://github.com/biancacarvalhoo
 - Maria Eduarda Loreta <br>
     --> GitHub: https://github.com/Maria-eduarda-loreta
 - Maria Eduarda Santana <br>
